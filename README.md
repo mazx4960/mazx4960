@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 #### 📈 My Github Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mazx4960&show_icons=true&line_height=33&count_private=true&theme=gradient)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mazx4960&show_icons=true&line_height=33&count_private=true&theme=vue)
 ![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazx4960&&hide=cmake&langs_count=4&line_height=35&theme=dark)
