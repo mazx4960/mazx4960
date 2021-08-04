@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 Currently majoring in computer science. Interested in web development (huge fan of react) as well as malware analysis. Might venture into machine learning as well as mobile app development in the future. Always excited to learn more about the different areas in computer science. 
 
 #### 📈 My Github Stats
+<div>
+  <img src="https://gpvc.arturio.dev/mazx4960" alt="Profile views"/>
+</div>
 
 ![My GitHub stats](https://github-readme-stats.mazx4960.vercel.app/api?username=mazx4960&show_icons=true&line_height=33&count_private=true&theme=solarized-light)
 ![My top langs](https://github-readme-stats.mazx4960.vercel.app/api/top-langs/?username=mazx4960&&hide=cmake&langs_count=4&line_height=35&theme=dark)
