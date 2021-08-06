@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 #### 👋 Hello
-Currently majoring in computer science. Interested in web development (huge fan of react) as well as malware analysis. Might venture into machine learning as well as mobile app development in the future. Always excited to learn more about the different areas in computer science. 
+Currently majoring in computer science. Interested in web development as well as malware analysis. Might venture into machine learning as well as mobile app development in the future. Always excited to learn more about the different areas in computer science. 
 
 #### 📈 My Github Stats
 <div>
