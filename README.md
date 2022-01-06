@@ -18,7 +18,8 @@ Currently majoring in computer science. Interested in web development as well as
 
 #### 📈 My Github Stats
 <div>
-  <img src="https://gpvc.arturio.dev/mazx4960" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=mazx4960" alt="Profile views"/>
+<!--   <img src="https://gpvc.arturio.dev/mazx4960" alt="Profile views"/> -->
 </div>
 
 ![My GitHub stats](https://github-readme-stats.mazx4960.vercel.app/api?username=mazx4960&show_icons=true&line_height=33&count_private=true&theme=solarized-light)
